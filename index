@@ -1,46 +1,42 @@
-diff --git a/index b/index
---- index
-+++ index
-@@ -1,1 +1,41 @@
-+<!DOCTYPE html>
+
+<!DOCTYPE html>
  <html>
-+    <head>
-+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-+        <title>Games to try</title>
-+    </head>
-+    <body>
-+        <header>
-+            <nav>
-+                <ul>
-+                    <li>Home</li>
-+                    <li>Darts
-+                        <ul>
-+                            <li>Correct pose</li>
-+                            <li>Construction</li>
-+                            <li>Game Options
-+                                <ul>
-+                                    <li>Standard Modes</li>
-+                                    <li>20 to 1</li>
-+                                    <li>Bulls Eye to 40</li>
-+                                </ul>
-+                            </li>
-+                        </ul>
-+                    </li>
-+                </ul>
-+            </nav>
-+        </header>
-+        <main>
-+            <h2>Here we could welcome the visitors of our site and let them know what they can exolore here.</h2>
-+            <ol>
-+                <li>Overview of famous games we like and present on our page</li>
-+                <li>Some rules</li>
-+                <li>Perhaps a video example</li>
-+                <li>Perhaps a way to document own game experiences or results?</li>
-+                </ol>
-+        </main>
-+        <footer>
-+
-+        </footer>
-+    </body>
-+</html>
-\ No newline at end of file
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <title>Games to try</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li>Home</li>
+                    <li>Darts
+                        <ul>
+                            <li>Correct pose</li>
+                            <li>Construction</li>
+                            <li>Game Options
+                                <ul>
+                                    <li>Standard Modes</li>
+                                    <li>20 to 1</li>
+                                    <li>Bulls Eye to 40</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h2>Here we could welcome the visitors of our site and let them know what they can exolore here.</h2>
+            <ol>
+                <li>Overview of famous games we like and present on our page</li>
+                <li>Some rules</li>
+                <li>Perhaps a video example</li>
+                <li>Perhaps a way to document own game experiences or results?</li>
+                </ol>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
